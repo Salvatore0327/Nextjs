@@ -2231,4 +2231,5 @@ Here are some resources to continue exploring Next.js:
 - [Next.js Templates](https://vercel.com/templates?framework=next.js)
 - [Next.js Repository](https://github.com/vercel/next.js)
 - [Vercel YouTube](https://www.youtube.com/@VercelHQ/videos)#   N e x t j s  
+ #   N e x t j s  
  
